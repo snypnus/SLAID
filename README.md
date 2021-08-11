@@ -17,7 +17,7 @@ System requirements:
 2. Skipping or Deleted unwanted log data
 3. Usage of Pandas library and Numpy Arrays
 
-👍 Supported IDE's and Environments:
-1. Visual Studio Code
-2. PyCharm
-3. Jupyter Notebooks by Anaconda
+# 👍 Supported IDE's and Environments:
+_1. Visual Studio Code
+_2. PyCharm
+_3. Jupyter Notebooks by Anaconda
