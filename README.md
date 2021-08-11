@@ -14,7 +14,7 @@
 2. Skipping or Deleted unwanted log data
 3. Usage of Pandas library
 
-// Supported IDE's and Environments
+@ Supported IDE's and Environments
 1. Visual Studio
 2. PyCharm
 3. Jupter Notebooks by Anaconda
