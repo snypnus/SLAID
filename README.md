@@ -1,30 +1,38 @@
-# SLAID {Simple Log Analysis and Intrusion Detection tool }
+# SLAID 🗄️
 
+Simple Log Analysis and Intrusion Detection tool 
 
-## It is a tool to parse information from log files and detect threats by filtering events.
+> Parse information from log files, detect threats, and filter events
 
+## Overview
+'SLAID' is a simple log analysis tool for security analysts to detect potential instrusions.
 
-``` Python
-System requirements:
-  1. Windows 10 
-  2. Ubuntu 18.04 or more
-  3. MacOS X
-  4. Python 3.7 or later 
-  5. 8 Gb or more RAM (dependent on File size)
-  ```
+The features include:
+- Bulk filename/extension rename
+- Skipping or Deleting unwanted log data
+- Pandas for data analysis
+- Numpy for statistical analysis
 
-# :: Extra tool sets ::
-1. Rename Bulk file name/extension
-2. Skipping or Deleted unwanted log data
-3. Usage of Pandas library and Numpy Arrays
+# Usage 🛰️
+
+```shell
+<cd ~/path/to/file
+ python log_analysis.py>
+```
+
+## Development 🔩
+
+## System requirements 💻
+ - Windows 10, Linux or macOS X
+ -  8 Gb or more RAM (dependent on File size)
 
 ## 👍 Supported IDE's and Environments:
+  - Visual Studio Code↗️
+  - PyCharm↗️
+  - Jupyter Notebooks by Anaconda↗️
+  - Hypervisors🚥:
+    - Oracle Virtual Box 6.1
+    - VMware Workstation 16.0
 
-1. Visual Studio Code↗️
-2. PyCharm↗️
-3. Jupyter Notebooks by Anaconda↗️
-4. Hypervisors🚥:
-   . Oracle Virtual Box 6.1
-   . VMware Workstation 16.0
-
-# # 🔲 CONTRIBUTIONS WELCOMED 
+# # 🔲 CONTRIBUTIONS WELCOMED 🤝
+View our [contributing](./CONTRIBUTING.md) doc if would like to help out!
