@@ -19,11 +19,12 @@ System requirements:
 3. Usage of Pandas library and Numpy Arrays
 
 # 👍 Supported IDE's and Environments:
-\↗️ Visual Studio Code
-\↗️ PyCharm
-\↗️ Jupyter Notebooks by Anaconda
-\🚥 Hypervisors:
-  _Oracle Virtual Box 6.1
-  _VMware Workstation 16.0
+\\
+↗️ Visual Studio Code
+↗️ PyCharm
+↗️ Jupyter Notebooks by Anaconda
+🚥 Hypervisors:
+  Oracle Virtual Box 6.1
+  VMware Workstation 16.0
 
-# # 🔲 \* CONTRIBUTIONS WELCOMED *
+# # 🔲 \ CONTRIBUTIONS WELCOMED 
