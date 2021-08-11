@@ -26,4 +26,4 @@ System requirements:
   __Oracle Virtual Box 6.1
   __VMware Workstation 16.0
 
-🔲 \* CONTRIBUTIONS WELCOMED *\
+# # 🔲 \* CONTRIBUTIONS WELCOMED *
