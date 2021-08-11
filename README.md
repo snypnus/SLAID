@@ -20,11 +20,11 @@ System requirements:
 
 # 👍 Supported IDE's and Environments:
 
-↗️ _Visual Studio Code
-↗️ _PyCharm
-↗️ _Jupyter Notebooks by Anaconda
-🚥 _Hypervisors:
-    _Oracle Virtual Box 6.1
-    _VMware Workstation 16.0
+# ↗️ Visual Studio Code
+# ↗️ PyCharm
+# ↗️ Jupyter Notebooks by Anaconda
+🚥Hypervisors:
+   1.Oracle Virtual Box 6.1
+   2.VMware Workstation 16.0
 
 # # 🔲 \ CONTRIBUTIONS WELCOMED 
