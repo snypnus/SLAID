@@ -1,4 +1,4 @@
-# SLAIDT {Simple Log Analysis and Intrusion Detection Tool }
+# SLAID {Simple Log Analysis and Intrusion Detection tool }
 
 ## It is a tool to parse information from log files and detect threats by filtering events.
 
