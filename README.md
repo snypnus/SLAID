@@ -1,5 +1,5 @@
 # SLAID {Simple Log Analysis and Intrusion Detection tool }
-@https://img.shields.io/github/pipenv/locked/python-version/snypnus/SLAID
+
 
 ## It is a tool to parse information from log files and detect threats by filtering events.
 
