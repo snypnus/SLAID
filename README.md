@@ -10,6 +10,7 @@ System requirements:
   2. Ubuntu 18.04 or more
   3. MacOS X
   4. Python 3.7 or later
+  5. 8 Gb or more RAM (dependent on File size)
   ```
 
 # :: Extra tool sets ::
@@ -18,6 +19,11 @@ System requirements:
 3. Usage of Pandas library and Numpy Arrays
 
 # 👍 Supported IDE's and Environments:
-_1. Visual Studio Code
-_2. PyCharm
-_3. Jupyter Notebooks by Anaconda
+↗️ Visual Studio Code
+↗️ PyCharm
+↗️ Jupyter Notebooks by Anaconda
+🚥 Hypervisors:
+  __Oracle Virtual Box 6.1
+  __VMware Workstation 16.0
+
+🔲 \* CONTRIBUTIONS WELCOMED *\
