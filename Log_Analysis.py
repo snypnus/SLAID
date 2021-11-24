@@ -41,7 +41,8 @@ for sub_folders in folders:
     # Define both the log path and csv path
     log_file_path = ORIGNAL_PATH + sub_folders + r"/http.log"
     csv_file_path = NEW_PATH + sub_folders + r"_http.csv"
-    file = open(log_file_path, mode="r+", encoding="utf-8")
+    with open(log_file_path, mode="r+", encoding="utf-8") as file:
+        file.read()
     skip_lines = file.readlines()
 
     # Skip first 6 lines and the last line if necessary (Optional)
