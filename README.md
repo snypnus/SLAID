@@ -2,7 +2,7 @@
 
 Simple Log Analysis and Intrusion Detection tool 
 
-> Parse information from log files, detect threats, and filter events
+> Parse information from log files, detect threats, and filter events for logs
 
 ## Overview
 'SLAID' is a simple log analysis tool for security analysts to detect potential instrusions.
