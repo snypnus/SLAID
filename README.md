@@ -8,7 +8,6 @@ Simple Log Analysis and Intrusion Detection tool
 'SLAID' is a simple log analysis tool for security analysts to detect potential instrusions.
 
 The features include:
-- Bulk filename/extension rename
 - Skipping or Deleting unwanted log data
 - Pandas for data analysis
 - Numpy for statistical analysis
